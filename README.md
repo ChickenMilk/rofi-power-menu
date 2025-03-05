@@ -1,5 +1,5 @@
 # Rofi Power Menu Mode
-
+# THIS IS A FORK I CHANGE IT TO BE BETTER FOR MYSELF
 
 Rofi Power Menu provides a mode for offering basic power menu operations such as
 shutting down, logging out, rebooting and suspending. By default, it shows all
